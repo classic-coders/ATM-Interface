@@ -60,8 +60,7 @@ public static void main(String[] args): Entry point of the program.
 
 ## Usage Instructions
 **1.Clone the Repository:**
-git clone https://github.com/yourusername/ATM_Simulation.git
-cd ATM_Simulation
+https://github.com/classic-coders/ATM-Interface.git
 
 **Compile and Run:** Use a Java IDE (Eclipse, IntelliJ) or compile from the command line. Run the ATM_Interface class to start the ATM simulation.
 
